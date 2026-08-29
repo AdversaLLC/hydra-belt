@@ -1,0 +1,9 @@
+# raw weights live in the split zip parts, not as loose files
+models/
+# llama.cpp source + build tree is huge/rebuildable; the useful binaries are inside belt.zip
+llama.cpp/
+# intermediates
+dist/belt.zip
+*.log
+router/hf/
+**/__pycache__/

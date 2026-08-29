@@ -1,0 +1,40 @@
+{"q":"image this failing hard drive with bad sectors that keeps disconnecting","want":"ddrescue"}
+{"q":"carve deleted jpeg photos from a raw disk image","want":"foremost"}
+{"q":"parse Firefox history and cookies from this profile","want":"dumpzilla"}
+{"q":"read chrome browsing history and downloads","want":"chromium-artifact-parser"}
+{"q":"hunt these windows event logs for suspicious logons with sigma rules","want":"chainsaw"}
+{"q":"convert this evtx file to json","want":"evtx-dump"}
+{"q":"mount this E01 forensic image read only","want":"forensic-image-mounting"}
+{"q":"acquire a disk to E01 from the command line and verify the hash","want":"ewf-tools"}
+{"q":"crack this WPA handshake I captured on my authorized engagement","want":"aircrack-ng"}
+{"q":"pull files off a live android phone over adb","want":"adb-fastboot"}
+{"q":"extract emails and credit card numbers from the whole disk image fast","want":"bulk-extractor"}
+{"q":"check the EXIF gps coordinates in this photo","want":"exiftool-metadata"}
+{"q":"scan these extracted files for known malware signatures","want":"clamav-scanning"}
+{"q":"analyze memory dump with volatility 3","want":"volatility3"}
+{"q":"mount this bitlocker volume I have the recovery key for","want":"dislocker-bitlocker"}
+{"q":"make a word document report of my findings","want":"docx"}
+{"q":"build an excel spreadsheet of these values","want":"xlsx"}
+{"q":"create a powerpoint deck","want":"pptx"}
+{"q":"extract the filesystem from this router firmware bin","want":"binwalk"}
+{"q":"recover deleted files with photorec","want":"testdisk-photorec"}
+{"q":"run a spiderfoot recon scan on this domain","want":"spiderfoot-recon"}
+{"q":"write custom yara rules to match this pattern","want":"yara-matching"}
+{"q":"build a super timeline across all artifacts with plaso","want":"plaso-log2timeline"}
+{"q":"analyze this pcap in wireshark / tshark","want":"tshark-wireshark"}
+{"q":"capture packets on the wire with tcpdump","want":"tcpdump"}
+{"q":"hand off this session to another agent, save my progress","want":"baton"}
+{"q":"what did we learn this session, save it as a skill","want":"claudeception"}
+{"q":"minimize my diff against the merge base","want":"razor"}
+{"q":"write a spec document from what this git branch does","want":"schematic"}
+{"q":"verify this work is actually done before we ship it","want":"adversarial-execution"}
+{"q":"remember this insight, have we solved this before","want":"wisdom-memory"}
+{"q":"install and verify the hydra stack, run doctor","want":"hydra-setup"}
+{"q":"parse windows registry hives","want":"windows-registry-analysis"}
+{"q":"analyze apple APFS volume on linux","want":"apfs-fuse"}
+{"q":"list files with the sleuthkit fls","want":"tsk-fls"}
+{"q":"recover files with tsk_recover","want":"tsk-recover"}
+{"q":"detect steganography hidden data in this image","want":"steganography-analysis"}
+{"q":"crack this password hash with hashcat","want":"hashcat"}
+{"q":"crack these unix passwords with john","want":"john-the-ripper"}
+{"q":"make some generative flow field art with p5js","want":"algorithmic-art"}

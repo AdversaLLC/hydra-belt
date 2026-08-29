@@ -1,0 +1,10 @@
+{"q":"find hidden messages concealed inside this picture","want":"steganography-analysis"}
+{"q":"check if this evidence file was tampered with or altered","want":"hashdeep-verification"}
+{"q":"i accidentally deleted my thesis, get it back","want":"testdisk-photorec"}
+{"q":"what apps and messages are on this seized iphone","want":"leapp-suite"}
+{"q":"did someone plug a usb thumb drive into this windows box","want":"windows-registry-analysis"}
+{"q":"pull the whole disk off this laptop bit for bit","want":"guymager"}
+{"q":"who did this person email and what did they search","want":"dumpzilla"}
+{"q":"scan this machine for leftover crypto wallet keys in RAM","want":"volatility3"}
+{"q":"map out what happened on this system over time","want":"plaso-log2timeline"}
+{"q":"is there malware hiding in these downloaded files","want":"clamav-scanning"}
